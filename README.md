@@ -148,18 +148,6 @@ Key Takeaways
 
 •	Visualizations help validate training behavior and prediction consistency
 ________________________________________
-Possible Extensions
-
-•	Add L2 regularization
-
-•	Implement stochastic or mini-batch gradient descent
-
-•	Compare convergence speed
-
-•	Add ROC curve and AUC score
-
-•	Extend to multiclass classification (softmax)
-________________________________________
 License
 
 This project is open for educational and learning purposes.
